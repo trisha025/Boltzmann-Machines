@@ -1,1 +1,1 @@
-# Boltzmann-Machines
+#Boltzmann-Machines using Pytorch
